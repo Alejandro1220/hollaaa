@@ -1,0 +1,30 @@
+body{
+	background-color: #D4FAFA;
+}
+
+.ko{
+	position: absolute;
+	left: 700px;
+}
+
+.fg{
+	position: relative;
+	font-size: 50px;
+	font-family: arial;
+}
+.kj{
+	position: relative;
+	top: 50px;
+	right: 180px;
+}
+
+.su{
+	position: relative;
+	bottom: 81px;
+	left: 200px;
+}
+
+.uy{
+	position: relative;
+	top: 50px;
+}
